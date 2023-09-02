@@ -43,7 +43,6 @@ export const Post = () => {
                 ))}
             </div>
             </section>
-           
         </main>
     )
 }
